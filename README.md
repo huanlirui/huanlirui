@@ -19,8 +19,8 @@
 
 
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-
 [![](https://img.shields.io/badge/apple-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
