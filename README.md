@@ -12,7 +12,7 @@
 <br>
 <!--
 <img align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
---!>
+-->
 
 **Languages and Frameworks and other**
 <br>
