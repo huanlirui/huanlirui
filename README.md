@@ -4,7 +4,7 @@
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <p align="left">
   <a href="https://github.com/huanlirui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&title_color=333&text_color=777&count_private=false&show_icons=true" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&count_private=true&title_color=333&text_color=777&count_private=false&show_icons=true" alt="Charmve's Stats" >
   </a>
 </p>
 <img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='410px'> 
