@@ -33,6 +33,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=Redis) ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat&logo=NestJS&logoColor=333)
 </br>
 </br>
 ![Vue](https://img.shields.io/badge/Vue-%234ea94b.svg?style=flat&logo=Vue.js&logoColor=white)
