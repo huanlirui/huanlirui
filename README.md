@@ -2,13 +2,17 @@
 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <p align="left">
   <a href="https://github.com/huanlirui" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&count_private=true&title_color=333&text_color=777&count_private=false&show_icons=true" alt="Charmve's Stats" >
+      <img src="https://dota.librian.net/api/d?id=187214404&%E8%A6%81=%E6%AF%94%E8%B5%9B,%E6%AF%94%E8%B5%9B%E6%97%B6%E9%95%BF,%E8%83%9C%E7%8E%87" style="height:200px" >
   </a>
 </p>
+
 <img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='410px'> 
 </br>
+
 <!--
 <img align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 -->
@@ -20,6 +24,7 @@
 [![](https://img.shields.io/badge/apple-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 </br>
 </br>
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
@@ -71,7 +76,6 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 </br>
 <img align="left"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
-
 <!--
 **huanlirui/huanlirui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
