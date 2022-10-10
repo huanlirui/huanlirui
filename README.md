@@ -5,8 +5,8 @@
 
 <p align="left">
   <a href="https://github.com/huanlirui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&count_private=true&title_color=333&text_color=777&count_private=false&show_icons=true" alt="Charmve's Stats" >
-      <img src="https://dota.librian.net/api/d?id=187214404&%E8%A6%81=%E6%AF%94%E8%B5%9B,%E6%AF%94%E8%B5%9B%E6%97%B6%E9%95%BF,%E8%83%9C%E7%8E%87" style="height:200px" >
+    <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&count_private=true&title_color=333&text_color=777&count_private=false&show_icons=true" alt="Charmve's Stats" width="480">
+      <img src="https://dota.librian.net/api/d?id=187214404&%E8%A6%81=%E6%AF%94%E8%B5%9B,%E6%AF%94%E8%B5%9B%E6%97%B6%E9%95%BF,%E8%83%9C%E7%8E%87" width="250" >
   </a>
 </p>
 
