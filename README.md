@@ -5,8 +5,9 @@
 
 <p align="left">
   <a href="https://github.com/huanlirui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&count_private=true&title_color=333&text_color=777&count_private=true&show_icons=true" alt="Charmve's Stats" width="480">
-      <img src="https://dota.librian.net/api/d?id=187214404&%E8%A6%81=%E6%AF%94%E8%B5%9B,%E6%AF%94%E8%B5%9B%E6%97%B6%E9%95%BF,%E8%83%9C%E7%8E%87" width="250" >
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=huanlirui&count_private=true&title_color=333&text_color=777&count_private=true&show_icons=true" alt="Charmve's Stats" width="480"> -->
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=huanlirui" alt="Charmve's Stats" width="480">
+      <img src="https://dota.librian.net/api/d?id=187214404&%E8%A6%81=%E6%AF%94%E8%B5%9B,%E6%AF%94%E8%B5%9B%E6%97%B6%E9%95%BF,%E8%83%9C%E7%8E%87" width="250" height="200" >
   </a>
 </p>
 
@@ -19,10 +20,8 @@
 
 **Languages and Frameworks and other**
 </br>
-
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/apple-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-</br>
 </br>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
@@ -33,7 +32,7 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-6000ff?logo=Tauri)
 </br>
-</br>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
 ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -47,8 +46,9 @@
 ![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.example.com%2Fjob%2Fexample%2F&label=Jenkins&logo=Jenkins&logoColor=white&color=red)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
+![Hasura](https://img.shields.io/badge/-Hasura-FFFFFF?style=square&logo=hasura&logoColor=1EB4D4)
 </br>
-</br>
+
 
 ![React](https://img.shields.io/badge/-React-%2361dafb?style=flat&logo=react&logoColor=000000)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white)
@@ -59,30 +59,30 @@
 ![dva](https://img.shields.io/badge/-dva-ff69b4)
 ![React Query](https://img.shields.io/badge/-React%20Query-white?logo=React%20Query)
 </br>
-</br>
+
 ![Vue](https://img.shields.io/badge/Vue-%234ea94b.svg?style=flat&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-sucess.svg?style=flat&logo=Vuetify&logoColor=white)
 </br>
-</br>
+
 ![Styled--Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-c69?style=flat&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-white?logo=Tailwind%20CSS)
 </br>
-</br>
+
 ![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-%23AA344D.svg?style=flat&logo=Apache%20ECharts&logoColor=white)
 ![AntV-G2](https://img.shields.io/badge/AntV-G2-blue)
 ![AntV-F2](https://img.shields.io/badge/AntV-F2-blue)
 ![DataV](https://img.shields.io/badge/-DataV-blue)
 </br>
-</br>
+
 ![visualstudiocode](https://img.shields.io/badge/%E5%B7%A5%E5%85%B7-Vs%20Code-blue?logo=visualstudiocode)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=Android%20Studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode%20Studio-%23147EFB.svg?style=flat&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-2B2E3B?logo=Arc&logoColor=white)
 </br>
-</br>
+
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 ![Dota 2](https://img.shields.io/badge/Dota%202-000000?logo=Dota%202&logoColor=white)
 </br>
