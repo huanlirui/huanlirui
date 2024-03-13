@@ -61,11 +61,17 @@
 ![umi](https://img.shields.io/badge/framework-umi-blue)
 ![dva](https://img.shields.io/badge/-dva-ff69b4)
 ![React Query](https://img.shields.io/badge/-React%20Query-white?logo=React%20Query)
+![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-%23311C87?logo=apollo-graphql&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-%230081CB?logo=material-ui&logoColor=white)
+![Jotai](https://img.shields.io/badge/-Jotai-black)
+
+
 </br>
 
 ![Vue](https://img.shields.io/badge/Vue-%234ea94b.svg?style=flat&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-sucess.svg?style=flat&logo=Vuetify&logoColor=white)
-![Elemen](https://img.shields.io/badge/-Element%20Plus-%23409eff?&logo=elementplus&logoColor=white)
+![Element](https://img.shields.io/badge/-Element%20Plus-%23409eff?&logo=elementplus&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-brightgreen)
 
 
 </br>
