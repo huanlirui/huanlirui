@@ -43,6 +43,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
 ![Hasura](https://img.shields.io/badge/-Hasura-FFFFFF?style=square&logo=hasura&logoColor=1EB4D4)
+![Nhost](https://img.shields.io/badge/-Nhost-%234B4D4F?logo=Nhost)
 ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=flat&logo=MySQL&logoColor=white)
