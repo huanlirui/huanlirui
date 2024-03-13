@@ -34,19 +34,22 @@
 </br>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
-![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=flat&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=Redis)
 ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat&logo=NestJS&logoColor=333)
-![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.example.com%2Fjob%2Fexample%2F&label=Jenkins&logo=Jenkins&logoColor=white&color=red)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?logo=jenkins&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
 ![Hasura](https://img.shields.io/badge/-Hasura-FFFFFF?style=square&logo=hasura&logoColor=1EB4D4)
+![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=flat&logo=MySQL&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?&logo=Sequelize&logoColor=white)
 </br>
 
 
@@ -62,6 +65,9 @@
 
 ![Vue](https://img.shields.io/badge/Vue-%234ea94b.svg?style=flat&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-sucess.svg?style=flat&logo=Vuetify&logoColor=white)
+![Elemen](https://img.shields.io/badge/-Element%20Plus-%23409eff?&logo=elementplus&logoColor=white)
+
+
 </br>
 
 ![Styled--Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
@@ -76,11 +82,17 @@
 ![DataV](https://img.shields.io/badge/-DataV-blue)
 </br>
 
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?&logo=cypress&logoColor=058a5e)
+![sentry](https://img.shields.io/badge/-sentry-%23362D59?&logo=sentry&logoColor=white)
+</br>
+
+
 ![visualstudiocode](https://img.shields.io/badge/%E5%B7%A5%E5%85%B7-Vs%20Code-blue?logo=visualstudiocode)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=Android%20Studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode%20Studio-%23147EFB.svg?style=flat&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-2B2E3B?logo=Arc&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white)
 </br>
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
